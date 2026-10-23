@@ -1,16 +1,18 @@
-## Hi there 👋
+# Shankarshan Thakur
 
-<!--
-**skt-0820/skt-0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Science & Engineering student · Exploring Data Science and AI · Building toward a master’s in Germany**
 
-Here are some ideas to get you started:
+My next big milestone is a master’s in Germany for Winter 2028/29. I’m exploring Data Science and AI, looking for the problem space I’ll want to spend years mastering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My ambition is to become exceptional in the field I choose. This GitHub is where I’m working toward that: projects built, ideas tested, and lessons carried into the next attempt.
+
+## A project from the journey
+
+[Community Lost & Found Board](https://github.com/skt-0820/lost-and-found)  
+A community board for reporting lost and found items, with search, filters, and contact links. Built with HTML, CSS, and JavaScript, with an optional Supabase setup.
+
+## The work ahead
+
+- Deepen my computer science and mathematics foundations
+- Explore Data Science and AI through hands-on projects
+- Turn promising ideas into useful, well-documented software
